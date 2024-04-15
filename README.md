@@ -1,2 +1,0 @@
-# whynames.github.io
-Portfolio
